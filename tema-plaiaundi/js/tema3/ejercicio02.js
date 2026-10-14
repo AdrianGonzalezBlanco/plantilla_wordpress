@@ -1,6 +1,6 @@
 /*
  * Tema 2 · Fundamentos y particularidades de JavaScript
- * Ejercicio 1 · ¿Qué tipo tengo realmente?
+ * Ejercicio 2
  */
 
 const lista = [5, 8, 3, 10, 6];
