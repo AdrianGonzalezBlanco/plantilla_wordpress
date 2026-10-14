@@ -16,3 +16,7 @@ altura=Number(altura);
 console.log(typeof nombre);
 console.log(typeof edad);
 console.log(typeof altura);
+
+/*
+ * si escribes 20 en prompt("Edad"), el tipo de edad es string, ya que prompt devuelve un string
+*/
