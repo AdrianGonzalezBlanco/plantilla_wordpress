@@ -3,7 +3,8 @@
  * Ejercicio 4 · ¿const o let?
  */
 
-/* el precio de un producto sería let ya que puede variar
+/* 
+ * el precio de un producto sería let ya que puede variar
  * un contador sería let ya que varia
  * un nombre de usuario sería const ya que no varia
  * un saldo al que se le van restando cantidades sería let ya que varia
