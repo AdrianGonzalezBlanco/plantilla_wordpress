@@ -10,13 +10,15 @@ $titulos_ejercicios = array(
     'Ejercicio 2',
     'Ejercicio 3',
     'Ejercicio 4',
-    'Practica Final',
+    'Ejercicio 5',
+    'Ejercicio 6',
+    'Ejercicio 7',
 );
 ?>
 
 <main class="ejercicios">
     <h2><?php the_title(); ?></h2>
-    <p>Tema 2 · Fundamentos y particularidades de JavaScript</p>
+    <p>Tema 4</p>
 
     <nav aria-label="Ejercicios de JavaScript">
         <ul class="ejercicios__lista">
