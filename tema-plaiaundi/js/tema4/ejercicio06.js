@@ -1,5 +1,5 @@
 /*
- * Tema 4 · Fundamentos y particularidades de JavaScript
+ * Tema 4
  * Ejercicio 6
  */
 
